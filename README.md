@@ -1,6 +1,6 @@
 # Auction_Bid_Price
 
-### [Project_4:Auction_Bid_Price](https://github.com/PRANAVKUMAR183/Auction_Bid_Price) (Link to project)
+### [Auction_Bid_Price](https://github.com/PRANAVKUMAR183/Auction_Bid_Price) (Link to project)
 
 *A blind action, deciding the winner with the highest bid.
 
